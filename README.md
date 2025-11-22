@@ -11,20 +11,20 @@ https://www.nexusmods.com/blueprince/mods/12
 
 # You are expected to go out of logic
 There is a hidden category of items referred to as gem items, alot of checks are out of logic until you have a certain amount of these items in your pool, the amount needed will be next to the check. The Gem items are as listed.
-Sledgehammer
-Keycard
-Metal Detector
-Shovel
-Lockpick Kit
-Lucky Rabbit's Foot
-Parlor Boxes
-Dartboard Puzzle
-Laboratory Terminal
-Dinner (Dining Room)
-Observatory Telescope
-Comissary Stock
-Apple Orchard Gate
-Gemstone Cavern
+- Sledgehammer
+- Keycard
+- Metal Detector
+- Shovel
+- Lockpick Kit
+- Lucky Rabbit's Foot
+- Parlor Boxes
+- Dartboard Puzzle
+- Laboratory Terminal
+- Dinner (Dining Room)
+- Observatory Telescope
+- Comissary Stock
+- Apple Orchard Gate
+- Gemstone Cavern
 
 # Extras
 In order to goal you will need 10 Room 46 Key Fragments.
