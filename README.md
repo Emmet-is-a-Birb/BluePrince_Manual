@@ -1,7 +1,7 @@
 # BluePrince_Manual
 A manual for blue prince built off of the one made by Zulax.
 
-This Manual requires use of a save editor to edit the save file at "\AppData\LocalLow\Dogubomb\BLUE PRINCE\storage", in order to edit said save file use an editor like https://es3.tusinean.ro. Whenever the game has saved and you need to edit the save filer, be sure to remove the "MtHollyBlueprintBackUp.es3" File.
+This Manual requires use of a save editor to edit the save file at "\AppData\LocalLow\Dogubomb\BLUE PRINCE\storage", in order to edit said save file use an editor like https://es3.tusinean.ro. Whenever the game has saved and you need to edit the save file, be sure to remove the "MtHollyBlueprintBackUp.es3" File.
 While not required some mods will make things go smoother/allow access to more filler items, the mods are as listed.
 
 - https://www.nexusmods.com/blueprince/mods/19
