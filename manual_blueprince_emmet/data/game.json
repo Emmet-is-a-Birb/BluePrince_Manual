@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "BluePrince",
+  "creator": "Emmet",
+  "filler_item_name": "+5 Allowance",
+  "starting_items": []
+}

@@ -1,0 +1,1154 @@
+[
+  {
+    "count": 1,
+    "name": "Sledgehammer",
+    "category": [
+      "Items", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Keycard",
+    "category": [
+      "Keys", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Salt Shaker",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Magnifying Glass",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Metal Detector",
+    "category": [
+      "Items", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shovel",
+    "category": [
+      "Items", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Coin Purse",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lunch Box",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Lockpick Kit",
+    "category": [
+      "Keys", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Compass",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lucky Rabbit's Foot",
+    "category": [
+      "Items", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Watering Can",
+    "category": [
+      "Rare Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sleep Mask",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Coupon Book",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gear Wrench",
+    "category": [
+      "Rare Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Running Shoes",
+    "category": [
+      "Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Broken Lever",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Treasure Map",
+    "category": [
+      "Rare Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Telescope (Item)",
+    "category": [
+      "Rare Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Stopwatch",
+    "category": [
+      "Rare Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Repellant",
+    "category": [
+      "Rare Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Battery Pack",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hall Pass",
+    "category": [
+      "Rare Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Key",
+    "category": [
+      "Keys"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Basement Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Safe Deposit Box Keys",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Prism Key",
+    "category": [
+      "Keys"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Car Keys",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Secret Garden Key",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ornate Compass",
+    "category": [
+      "Shop Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chronograph",
+    "category": [
+      "Shop Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Spoon",
+    "category": [
+      "Shop Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Emerald Bracelet",
+    "category": [
+      "Shop Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Master Key",
+    "category": [
+      "Shop Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Moon Pendant",
+    "category": [
+      "Shop Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Self-Igniting Torch",
+    "category": [
+      "Shop Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Morning Star",
+    "category": [
+      "Shop Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Knight's Shield",
+    "category": [
+      "Shop Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Red Crown",
+    "category": [
+      "Rare Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Key 8",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Royal Scepter",
+    "category": [
+      "Rare Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "File Cabinet Keys",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blackbridge Grotto Microchip",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Entrance Hall Microchip",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "West Path Microchip",
+    "category": [
+      "Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Foundation Elevator",
+    "category": [
+      "Room Abilities"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rotunda Button",
+    "category": [
+      "Room Abilities"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Parlor Boxes",
+    "category": [
+      "Room Abilities", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dartboard Puzzle",
+    "category": [
+      "Room Abilities", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gallery Prizes",
+    "category": [
+      "Room Abilities"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Room 8 Puzzle",
+    "category": [
+      "Room Abilities"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Garage Doors",
+    "category": [
+      "Room Abilities"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Underpass Controls",
+    "category": [
+      "Room Abilities"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Office Terminal",
+    "category": [
+      "Terminals"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Office Safe",
+    "category": [
+      "Safes"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Drawing Room Safe",
+    "category": [
+      "Safes"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Study Safe",
+    "category": [
+      "Safes"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chamber of Mirror Buttons",
+    "category": [
+      "Room Abilities"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Breaker Box",
+    "category": [
+      "Room Abilities", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boiler Room Pipes and Valves",
+    "category": [
+      "Room Abilities"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pump Room Controls",
+    "category": [
+      "Room Abilities"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Security Terminal",
+    "category": [
+      "Terminals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Workshop Bench",
+    "category": [
+      "Room Abilities"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Laboratory Terminal",
+    "category": [
+      "Terminals", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Coat Check Storage",
+    "category": [
+      "Room Abilities"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mail Room Package",
+    "category": [
+      "Room Abilities"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dinner (Dining Room)",
+    "category": [
+      "Room Abilities", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Observatory Telescope",
+    "category": [
+      "Room Abilities", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boudoir Safe",
+    "category": [
+      "Safes"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Secret Passage Doorway",
+    "category": [
+      "Room Abilities"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "East Antechamber Lever (Great Hall)",
+    "category": [
+      "Antechamber Levers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "South Antechamber Lever (Greenhouse)",
+    "category": [
+      "Antechamber Levers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cloister Central Access",
+    "category": [
+      "Room Abilities"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "West Antechamber Lever (Secret Garden)",
+    "category": [
+      "Antechamber Levers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alt. East Antechamber Lever (Secret Garden)",
+    "category": [
+      "Antechamber Levers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Comissary Stock",
+    "category": [
+      "Shops", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kitchen Stock",
+    "category": [
+      "Shops"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Locksmith Stock",
+    "category": [
+      "Shops"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Showroom Stock",
+    "category": [
+      "Shops"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Laundry Room Services",
+    "category": [
+      "Shops"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Armory Stock",
+    "category": [
+      "Shops"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapel Piggy Bank",
+    "category": [
+      "Room Abilities"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Alt. South Antechamber Lever (Weight Room)",
+    "category": [
+      "Antechamber Levers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "GAMBLING (Casino Services)",
+    "category": [
+      "Shops"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Alt. West Antechamber Lever (Mechanarium)",
+    "category": [
+      "Antechamber Levers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Conservatory Rarity Adjustments",
+    "category": [
+      "Room Abilities"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shelter Terminal",
+    "category": [
+      "Terminals"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shelter Safe",
+    "category": [
+      "Safes"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shrine Blessings",
+    "category": [
+      "Powers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Trading Post Stock",
+    "category": [
+      "Shops"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tomb Puzzle",
+    "category": [
+      "Room Abilities"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chess Piece Powers",
+    "category": [
+      "Powers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alt. North Antechamber Lever (Throne Room)",
+    "category": [
+      "Antechamber Levers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apple Orchard Gate",
+    "category": [
+      "Powers", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blackbridge Grotto",
+    "category": [
+      "Powers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gemstone Cavern",
+    "category": [
+      "Powers", "Gem Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Satelite Dish",
+    "category": [
+      "Powers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "North Antechamber Lever (Inner Sanctum)",
+    "category": [
+      "Antechamber Levers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mora Jai Boxes",
+    "category": [
+      "Powers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Spare Room Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Aqaurium Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Billiard's Room Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Boudoir Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bunk Room Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Cloister Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Closet Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Courtyard Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Guest Bedroom Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hallway Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mail Room Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Nook Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Nursery Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Parlor Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Storeroom Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Treasure Trove",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Closed Exhibit",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Conservatory",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lost & Found",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mechanarium",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Planetarium",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Casino",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Classroom",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Clock Tower",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dormitory",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dovecote",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Solarium",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Kennel",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vestibule",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tunnel",
+    "category": [
+      "Room Aditions"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Swansong Password",
+    "category": [
+      "Terminals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 10,
+    "name": "Room 46 Key Fragment",
+    "category": [
+      "Misc"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Double Main Course Steps",
+    "category": [
+      "Misc"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Two Extra Allowance",
+    "category": [
+      "Filler"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Two Extra Stars",
+    "category": [
+      "Filler"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Two Extra Lockpicking",
+    "category": [
+      "Filler"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Two Extra Luck",
+    "category": [
+      "Filler"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "One Extra Starting Key",
+    "category": [
+      "Filler"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "One Extra Starting Gem",
+    "category": [
+      "Filler"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Five Extra Starting Steps",
+    "category": [
+      "Filler"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Two Extra Starting Dice",
+    "category": [
+      "Filler"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Two Random Mirror Rooms",
+    "category": [
+      "Filler"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Two Room Rarity Shifts",
+    "category": [
+      "Filler"
+    ],
+    "filler": true
+  },
+  {
+    "count": 3,
+    "name": "Axe a Room",
+    "category": [
+      "Misc"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bonus Spare Room",
+    "category": [
+      "Misc"
+    ],
+    "useful": true
+  }
+]

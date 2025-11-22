@@ -1,0 +1,1980 @@
+[
+  {
+    "region": "Base",
+    "name": "Room 001 - The Foundation",
+    "category": [
+      "[1] - Rooms 001-012"
+    ],
+    "requires": "(|@Gem Item:4|)"
+  },
+  {
+    "name": "Room 002 - Entrance Hall",
+    "region": "Base",
+    "category": [
+      "[1] - Rooms 001-012"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Room 003 - Spare Room",
+    "region": "Base",
+    "category": [
+      "[1] - Rooms 001-012"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Room 004 - Rotunda",
+    "region": "Base",
+    "category": [
+      "[1] - Rooms 001-012"
+    ],
+    "requires": "(|@Gem Item:6|)"
+  },
+  {
+    "name": "Room 005 - Parlor",
+    "region": "Base",
+    "category": [
+      "[1] - Rooms 001-012"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Room 006 - Billiard Room",
+    "region": "Base",
+    "category": [
+      "[1] - Rooms 001-012"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Room 007 - Gallery",
+    "region": "Base",
+    "category": [
+      "[1] - Rooms 001-012"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Room 008 - Room 8",
+    "region": "Base",
+    "category": [
+      "[1] - Rooms 001-012"
+    ],
+    "requires": "(|Key 8| AND |Gallery Prizes| AND |@Gem Item:4|)"
+  },
+  {
+    "name": "Room 009 - Closet",
+    "region": "Base",
+    "category": [
+      "[1] - Rooms 001-012"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Room 010 - Walk-in Closet",
+    "region": "Base",
+    "category": [
+      "[1] - Rooms 001-012"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Room 011 - Attic",
+    "region": "Base",
+    "category": [
+      "[1] - Rooms 001-012"
+    ],
+    "requires": "(|@Gem Item:6|)"
+  },
+  {
+    "name": "Room 012 - Storeroom",
+    "region": "Base",
+    "category": [
+      "[1] - Rooms 001-012"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Room 013 - Nook",
+    "region": "Base",
+    "category": [
+      "[2] - Rooms 013-024"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Room 014 - Garage",
+    "region": "Base",
+    "category": [
+      "[2] - Rooms 013-024"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Room 015 - Music Room",
+    "region": "Base",
+    "category": [
+      "[2] - Rooms 013-024"
+    ],
+    "requires": "(|@Gem Item:4|)"
+  },
+  {
+    "name": "Room 016 - Locker Room",
+    "region": "Base",
+    "category": [
+      "[2] - Rooms 013-024"
+    ],
+    "requires": "(|@Gem Item:5|)"
+  },
+  {
+    "name": "Room 017 - Den",
+    "region": "Base",
+    "category": [
+      "[2] - Rooms 013-024"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Room 018 - Wine Cellar",
+    "region": "Base",
+    "category": [
+      "[2] - Rooms 013-024"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Room 019 - Trophy Room",
+    "region": "Base",
+    "category": [
+      "[2] - Rooms 013-024"
+    ],
+    "requires": "(|@Gem Item:8|)"
+  },
+  {
+    "name": "Room 020 - Ballroom",
+    "region": "Base",
+    "category": [
+      "[2] - Rooms 013-024"
+    ],
+    "requires": "(|@Gem Item:4|)"
+  },
+  {
+    "name": "Room 021 - Pantry",
+    "region": "Base",
+    "category": [
+      "[2] - Rooms 013-024"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Room 022 - Rumpus Room",
+    "region": "Base",
+    "category": [
+      "[2] - Rooms 013-024"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Room 023 - Vault",
+    "region": "Base",
+    "category": [
+      "[2] - Rooms 013-024"
+    ],
+    "requires": "(|@Gem Item:6|)"
+  },
+  {
+    "name": "Room 024 - Office",
+    "region": "Base",
+    "category": [
+      "[2] - Rooms 013-024"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Room 025 - Drawing Room",
+    "region": "Base",
+    "category": [
+      "[3] - Rooms 025-036"
+    ],
+    "requires": "(|@Gem Item:1|)"
+  },
+  {
+    "name": "Room 026 - Study",
+    "region": "Base",
+    "category": [
+      "[3] - Rooms 025-036"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Room 027 - Library",
+    "region": "Base",
+    "category": [
+      "[3] - Rooms 025-036"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Room 028 - Chamber of Mirrors",
+    "region": "Base",
+    "category": [
+      "[3] - Rooms 025-036"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Room 029 - The Pool",
+    "region": "Base",
+    "category": [
+      "[3] - Rooms 025-036"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Room 030 - Drafting Studio",
+    "region": "Base",
+    "category": [
+      "[3] - Rooms 025-036"
+    ],
+    "requires": "(|@Gem Item:5|)"
+  },
+  {
+    "name": "Room 031 - Utility Closet",
+    "region": "Base",
+    "category": [
+      "[3] - Rooms 025-036"
+    ],
+    "requires": "(|@Gem Item:1|)"
+  },
+  {
+    "name": "Room 032 - Boiler Room",
+    "region": "Base",
+    "category": [
+      "[3] - Rooms 025-036"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Room 033 - Pump Room",
+    "region": "Base",
+    "category": [
+      "[3] - Rooms 025-036"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Room 034 - Security",
+    "region": "Base",
+    "category": [
+      "[3] - Rooms 025-036"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Room 035 - Workshop",
+    "region": "Base",
+    "category": [
+      "[3] - Rooms 025-036"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Room 036 - Laboratory",
+    "region": "Base",
+    "category": [
+      "[3] - Rooms 025-036"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Room 037 - Sauna",
+    "region": "Base",
+    "category": [
+      "[4] - Rooms 037-046"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Room 038 - Coat Check",
+    "region": "Base",
+    "category": [
+      "[4] - Rooms 037-046"
+    ],
+    "requires": "(|@Gem Item:1|)"
+  },
+  {
+    "name": "Room 039 - Mail Room",
+    "region": "Base",
+    "category": [
+      "[4] - Rooms 037-046"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Room 040 - Freezer",
+    "region": "Base",
+    "category": [
+      "[4] - Rooms 037-046"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Room 041 - Dining Room",
+    "region": "Base",
+    "category": [
+      "[4] - Rooms 037-046"
+    ],
+    "requires": "(|@Gem Item:1|)"
+  },
+  {
+    "name": "Room 042 - Observatory",
+    "region": "Base",
+    "category": [
+      "[4] - Rooms 037-046"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Room 043 - Conference Room",
+    "region": "Base",
+    "category": [
+      "[4] - Rooms 037-046"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Room 044 - Aquarium",
+    "region": "Base",
+    "category": [
+      "[4] - Rooms 037-046"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Room 045 - Antechamber",
+    "region": "Base",
+    "category": [
+      "[4] - Rooms 037-046"
+    ],
+    "requires": "((|Secret Garden Key| AND |West Antechamber Lever (Secret Garden)|) OR (|Broken Lever| AND |South Antechamber Lever (Greenhouse)|) OR (|East Antechamber Lever (Great Hall)|) OR (((|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Mechanarium| AND |Alt. West Antechamber Lever (Mechanarium)|) OR (|Alt. South Antechamber Lever (Weight Room)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Secret Garden Key| AND |Alt. East Antechamber Lever (Secret Garden)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|))",
+    "victory": false
+  },
+  {
+    "name": "Room 046 - Room 46",
+    "victory": true,
+    "region": "Base",
+    "category": [
+      "[4] - Rooms 037-046"
+    ],
+    "requires": "(((|Secret Garden Key| AND |West Antechamber Lever (Secret Garden)|) OR (|Broken Lever| AND |South Antechamber Lever (Greenhouse)|) OR (|East Antechamber Lever (Great Hall)|) OR (((|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Mechanarium| AND |Alt. West Antechamber Lever (Mechanarium)|) OR (|Alt. South Antechamber Lever (Weight Room)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Secret Garden Key| AND |Alt. East Antechamber Lever (Secret Garden)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|)) AND ((((((|Basement Key| AND |Foundation Elevator|) OR (|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|)) AND (((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle|) OR (|Basement Key| AND |Pump Room Controls|))) OR ((|Basement Key| AND |Pump Room Controls|) AND ((|Boiler Room Pipes and Valves|) OR ((|Apple Orchard Gate| AND |Breaker Box| AND |Garage Doors|) AND (|Metal Detector| AND |Magnifying Glass| AND |Workshop Bench|)))) OR (((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle| AND |Pump Room Controls|))) AND (|North Antechamber Lever (Inner Sanctum)| AND |Underpass Controls|)) OR ((|Blackbridge Grotto|) AND ((|Sledgehammer|) OR ((|Chess Piece Powers| AND |Armory Stock| AND |Morning Star|) AND (((|Metal Detector| AND |Magnifying Glass| AND |Workshop Bench|) AND (((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle|) OR (|Basement Key| AND |Pump Room Controls|)))))) AND (|Shovel|) AND (|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND (|Blackbridge Grotto Microchip| AND |Entrance Hall Microchip| AND |West Path Microchip|) AND (|Alt. North Antechamber Lever (Throne Room)|)))) AND |Room 46 Key Fragment:10|"
+  },
+  {
+    "name": "Bedroom",
+    "region": "Base",
+    "category": [
+      "[5] - Bedrooms"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Boudoir",
+    "region": "Base",
+    "category": [
+      "[5] - Bedrooms"
+    ],
+    "requires": "(|@Gem Item:1|)"
+  },
+  {
+    "name": "Guest Bedroom",
+    "region": "Base",
+    "category": [
+      "[5] - Bedrooms"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nursery",
+    "region": "Base",
+    "category": [
+      "[5] - Bedrooms"
+    ],
+    "requires": "(|@Gem Item:1|)"
+  },
+  {
+    "name": "Servant's Quarters",
+    "region": "Base",
+    "category": [
+      "[5] - Bedrooms"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Bunk Room (1)",
+    "region": "Base",
+    "category": [
+      "[5] - Bedrooms"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Bunk Room (2)",
+    "region": "Base",
+    "category": [
+      "[5] - Bedrooms"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Her Ladyship's Chamber",
+    "region": "Base",
+    "category": [
+      "[5] - Bedrooms"
+    ],
+    "requires": "(|@Gem Item:9|)"
+  },
+  {
+    "name": "Master Bedroom",
+    "region": "Base",
+    "category": [
+      "[5] - Bedrooms"
+    ],
+    "requires": "(|@Gem Item:7|)"
+  },
+  {
+    "name": "Hallway",
+    "region": "Base",
+    "category": [
+      "[6] - Hallways"
+    ],
+    "requires": []
+  },
+  {
+    "name": "West Wing Hall",
+    "region": "Base",
+    "category": [
+      "[6] - Hallways"
+    ],
+    "requires": "(|@Gem Item:1|)"
+  },
+  {
+    "name": "East Wing Hall",
+    "region": "Base",
+    "category": [
+      "[6] - Hallways"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Corridor",
+    "region": "Base",
+    "category": [
+      "[6] - Hallways"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Passageway",
+    "region": "Base",
+    "category": [
+      "[6] - Hallways"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Secret Passage",
+    "region": "Base",
+    "category": [
+      "[6] - Hallways"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Foyer",
+    "region": "Base",
+    "category": [
+      "[6] - Hallways"
+    ],
+    "requires": "(|@Gem Item:4|)"
+  },
+  {
+    "name": "Great Hall",
+    "region": "Base",
+    "category": [
+      "[6] - Hallways"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Terrace",
+    "region": "Base",
+    "category": [
+      "[7] - Green Rooms"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Patio",
+    "region": "Base",
+    "category": [
+      "[7] - Green Rooms"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Courtyard",
+    "region": "Base",
+    "category": [
+      "[7] - Green Rooms"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Cloister",
+    "region": "Base",
+    "category": [
+      "[7] - Green Rooms"
+    ],
+    "requires": "(|@Gem Item:5|)"
+  },
+  {
+    "name": "Veranda",
+    "region": "Base",
+    "category": [
+      "[7] - Green Rooms"
+    ],
+    "requires": "(|@Gem Item:4|)"
+  },
+  {
+    "name": "Greenhouse",
+    "region": "Base",
+    "category": [
+      "[7] - Green Rooms"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Morning Room",
+    "region": "Base",
+    "category": [
+      "[7] - Green Rooms"
+    ],
+    "requires": "|Kitchen Stock| AND (|@Gem Item:3|)"
+  },
+  {
+    "name": "Secret Garden",
+    "region": "Base",
+    "category": [
+      "[7] - Green Rooms"
+    ],
+    "requires": "(|Secret Garden Key|) AND (|@Gem Item:5|)"
+  },
+  {
+    "name": "Comissary",
+    "region": "Base",
+    "category": [
+      "[8] - Shops"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Kitchen",
+    "region": "Base",
+    "category": [
+      "[8] - Shops"
+    ],
+    "requires": "(|@Gem Item:1|)"
+  },
+  {
+    "name": "Locksmith",
+    "region": "Base",
+    "category": [
+      "[8] - Shops"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Showroom",
+    "region": "Base",
+    "category": [
+      "[8] - Shops"
+    ],
+    "requires": "(|@Gem Item:5|)"
+  },
+  {
+    "name": "Laundry Room",
+    "region": "Base",
+    "category": [
+      "[8] - Shops"
+    ],
+    "requires": "(|@Gem Item:4|)"
+  },
+  {
+    "name": "Bookshop",
+    "region": "Base",
+    "category": [
+      "[8] - Shops"
+    ],
+    "requires": "(|@Gem Item:6|)"
+  },
+  {
+    "name": "The Armory",
+    "region": "The Precipice Access",
+    "category": [
+      "[8] - Shops"
+    ],
+    "requires": "|Chess Piece Powers| AND (|@Gem Item:6|)"
+  },
+  {
+    "name": "Lavatory",
+    "region": "Base",
+    "category": [
+      "[9] - Red Rooms"
+    ],
+    "requires": "(|@Gem Item:1|)"
+  },
+  {
+    "name": "Chapel",
+    "region": "Base",
+    "category": [
+      "[9] - Red Rooms"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Maid's Chamber",
+    "region": "Base",
+    "category": [
+      "[9] - Red Rooms"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Archives",
+    "region": "Base",
+    "category": [
+      "[9] - Red Rooms"
+    ],
+    "requires": "(|@Gem Item:2|)"
+  },
+  {
+    "name": "Gymnasium",
+    "region": "Base",
+    "category": [
+      "[9] - Red Rooms"
+    ],
+    "requires": "(|@Gem Item:1|)"
+  },
+  {
+    "name": "Darkroom",
+    "region": "Base",
+    "category": [
+      "[9] - Red Rooms"
+    ],
+    "requires": "(|@Gem Item:1|)"
+  },
+  {
+    "name": "Weight Room",
+    "region": "Base",
+    "category": [
+      "[9] - Red Rooms"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Furnace",
+    "region": "Base",
+    "category": [
+      "[9] - Red Rooms"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Dovecote",
+    "region": "Base",
+    "category": [
+      "[A] - Studio Additions"
+    ],
+    "requires": "(|Dovecote| AND |@Gem Item:5|)"
+  },
+  {
+    "name": "The Kennel",
+    "region": "Base",
+    "category": [
+      "[A] - Studio Additions"
+    ],
+    "requires": "(|The Kennel| AND |@Gem Item:5|)"
+  },
+  {
+    "name": "Clock Tower",
+    "region": "Base",
+    "category": [
+      "[A] - Studio Additions"
+    ],
+    "requires": "(|Clock Tower| AND |@Gem Item:5|)"
+  },
+  {
+    "name": "Classroom",
+    "region": "Base",
+    "category": [
+      "[A] - Studio Additions"
+    ],
+    "requires": "((|Classroom|) OR (|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND (|@Gem Item:5|))"
+  },
+  {
+    "name": "Solarium",
+    "region": "Base",
+    "category": [
+      "[A] - Studio Additions"
+    ],
+    "requires": "(|Solarium| AND |@Gem Item:5|)"
+  },
+  {
+    "name": "Dormitory",
+    "region": "Base",
+    "category": [
+      "[A] - Studio Additions"
+    ],
+    "requires": "(|Dormitory| AND |@Gem Item:5|)"
+  },
+  {
+    "name": "Vestibule",
+    "region": "Base",
+    "category": [
+      "[A] - Studio Additions"
+    ],
+    "requires": "(|Vestibule| AND |@Gem Item:5|)"
+  },
+  {
+    "name": "Casino",
+    "region": "Base",
+    "category": [
+      "[A] - Studio Additions"
+    ],
+    "requires": "(|Casino| AND |@Gem Item:5|)"
+  },
+  {
+    "name": "Planetarium",
+    "region": "Base",
+    "category": [
+      "[B] - Found Floorplans"
+    ],
+    "requires": "(|Planetarium|) AND (|@Gem Item:5|)"
+  },
+  {
+    "name": "Mechanarium",
+    "region": "Base",
+    "category": [
+      "[B] - Found Floorplans"
+    ],
+    "requires": "(|@Gem Item:5| AND |Mechanarium|)"
+  },
+  {
+    "name": "Treasure Trove",
+    "region": "Base",
+    "category": [
+      "[B] - Found Floorplans"
+    ],
+    "requires": "(|Treasure Trove|) AND (|@Gem Item:5|)"
+  },
+  {
+    "name": "Throne Room",
+    "region": "Base",
+    "category": [
+      "[B] - Found Floorplans"
+    ],
+    "requires": "((|Blackbridge Grotto| AND |Boiler Room Pipes and Valves|) AND (((|Sledgehammer|) OR ((|Chess Piece Powers| AND |Armory Stock| AND |Morning Star|) AND ((|Apple Orchard Gate| AND |Breaker Box| AND |Garage Doors|) OR ((|Metal Detector| AND |Magnifying Glass| AND |Workshop Bench|) AND (((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle|) OR (((|Secret Garden Key| AND |West Antechamber Lever (Secret Garden)|) OR (|Broken Lever| AND |South Antechamber Lever (Greenhouse)|) OR (|East Antechamber Lever (Great Hall)|) OR (((|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR ((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle| AND |Pump Room Controls|)) AND (|Alt. West Antechamber Lever (Mechanarium)| AND |Underpass Controls|)) OR (|Alt. South Antechamber Lever (Weight Room)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Secret Garden Key| AND |Alt. East Antechamber Lever (Secret Garden)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|)) AND (|Basement Key| AND |Pump Room Controls|))))))) AND (|Shovel|) AND (|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND (|Blackbridge Grotto Microchip| AND |Entrance Hall Microchip| AND |West Path Microchip|))) AND (|@Gem Item:9|)"
+  },
+  {
+    "name": "Tunnel",
+    "region": "Base",
+    "category": [
+      "[B] - Found Floorplans"
+    ],
+    "requires": "(|Tunnel| AND |@Gem Item:5|)"
+  },
+  {
+    "name": "Conservatory",
+    "region": "Base",
+    "category": [
+      "[B] - Found Floorplans"
+    ],
+    "requires": "(|Conservatory|) AND (|@Gem Item:5|)"
+  },
+  {
+    "name": "Lost & Found",
+    "region": "Base",
+    "category": [
+      "[B] - Found Floorplans"
+    ],
+    "requires": "(|Lost & Found|) AND (|@Gem Item:5|)"
+  },
+  {
+    "name": "Closed Exhibit",
+    "region": "Base",
+    "category": [
+      "[B] - Found Floorplans"
+    ],
+    "requires": "(|Closed Exhibit|) AND (|@Gem Item:3|)"
+  },
+  {
+    "name": "Toolshed",
+    "region": "Outer Rooms",
+    "category": [
+      "[C] - Outer Rooms"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Shelter",
+    "region": "Outer Rooms",
+    "category": [
+      "[C] - Outer Rooms"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Schoolhouse",
+    "region": "Outer Rooms",
+    "category": [
+      "[C] - Outer Rooms"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Shrine",
+    "region": "Outer Rooms",
+    "category": [
+      "[C] - Outer Rooms"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Root Cellar",
+    "region": "Outer Rooms",
+    "category": [
+      "[C] - Outer Rooms"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Hovel",
+    "region": "Outer Rooms",
+    "category": [
+      "[C] - Outer Rooms"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Trading Post",
+    "region": "Outer Rooms",
+    "category": [
+      "[C] - Outer Rooms"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Tomb",
+    "region": "Outer Rooms",
+    "category": [
+      "[C] - Outer Rooms"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Upgrade Disk - Commissary",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "(|Comissary Stock:1|) AND |@Gem Item:6|"
+  },
+  {
+    "name": "Upgrade Disk - Office",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "(|@Gem Item:3|)"
+  },
+  {
+    "name": "Upgrade Disk - Garage",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "(|Car Keys:1|) AND |@Gem Item:3|"
+  },
+  {
+    "name": "Upgrade Disk - The Foundation",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "((|Foundation Elevator|) OR (|Sledgehammer| AND |Battery Pack| AND |Broken Lever| AND |Workshop Bench|)) AND |@Gem Item:6|"
+  },
+  {
+    "name": "Upgrade Disk - Great Hall",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "(|@Gem Item:4|)"
+  },
+  {
+    "name": "Upgrade Disk - Morning Room",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "|Kitchen Stock| AND (|@Gem Item:5|)"
+  },
+  {
+    "name": "Upgrade Disk - Her Ladyship's Chamber",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "(|@Gem Item:9|)"
+  },
+  {
+    "name": "Upgrade Disk - Vault",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "(|@Gem Item:9|) AND |Safe Deposit Box Keys|"
+  },
+  {
+    "name": "Upgrade Disk - Archives",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "(|File Cabinet Keys|) AND |Shovel| AND |@Gem Item:8|"
+  },
+  {
+    "name": "Upgrade Disk - Freezer",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "(|Self-Igniting Torch| AND |Chess Piece Powers| AND |Armory Stock| AND (|Apple Orchard Gate| AND |Gemstone Cavern| AND |Breaker Box| AND |Garage Doors|)) OR (|Sledgehammer| AND |Battery Pack| AND |Broken Lever| AND |Workshop Bench|) OR (|Magnifying Glass| AND |Metal Detector| AND |Workshop Bench|) OR (|@Gem Item:6| AND |Boiler Room Pipes and Valves|)"
+  },
+  {
+    "name": "Upgrade Disk - Tomb",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "(|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND ((|Self-Igniting Torch| AND |Chess Piece Powers| AND |Armory Stock|) OR (|Magnifying Glass| AND |Metal Detector| AND |Workshop Bench|)) AND |@Gem Item:6|"
+  },
+  {
+    "name": "Upgrade Disk - Trading Post",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "(|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND ((|Self-Igniting Torch| AND |Chess Piece Powers| AND |Armory Stock|) OR (|Magnifying Glass| AND |Metal Detector| AND |Workshop Bench|)) AND |@Gem Item:6|"
+  },
+  {
+    "name": "Upgrade Disk - Lost & Found",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "(|Lost & Found|) AND (|@Gem Item:5|)"
+  },
+  {
+    "name": "Upgrade Disk - Mechanarium",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "|Mechanarium| AND |@Gem Item:6|"
+  },
+  {
+    "name": "Upgrade Disk - Abandoned Mine",
+    "region": "The Underground - West + South Access",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "|@Gem Item:6|"
+  },
+  {
+    "name": "Upgrade Disk - Showroom Trade",
+    "region": "Upgrade Disks",
+    "category": [
+      "[D] - Upgrade Disks"
+    ],
+    "requires": "(|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND (|Trading Post Stock|) AND |Showroom Stock| AND (|Master Key| OR |Emerald Bracelet| OR |Ornate Compass|) AND |@Gem Item:9|"
+  },
+  {
+    "name": "Token - Cloister",
+    "region": "Allowance Tokens",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|@Gem Item:5|) AND |Cloister Central Access|"
+  },
+  {
+    "name": "Token - Entrance Hall",
+    "region": "Allowance Tokens",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|) AND |Shrine Blessings| AND ((|Sledgehammer|) OR (|Morning Star| AND |Armory Stock| AND |Chess Piece Powers|)) AND |@Gem Item:6|"
+  },
+  {
+    "name": "Token - Room 8 (1)",
+    "region": "Allowance Tokens",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Key 8| AND |Gallery Prizes|) AND |@Gem Item:5| AND |Room 8 Puzzle|"
+  },
+  {
+    "name": "Token - Room 8 (2)",
+    "region": "Allowance Tokens",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Key 8| AND |Gallery Prizes|) AND |@Gem Item:5| AND |Room 8 Puzzle|"
+  },
+  {
+    "name": "Token - Reservoir",
+    "region": "Allowance Tokens",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "|Pump Room Controls| AND |Boiler Room Pipes and Valves| AND |@Gem Item:8|"
+  },
+  {
+    "name": "Token - Vault Safe 149",
+    "region": "Allowance Tokens",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|@Gem Item:9|) AND |Safe Deposit Box Keys|"
+  },
+  {
+    "name": "Token - Vault Safe 233",
+    "region": "Allowance Tokens",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|@Gem Item:9|) AND |Safe Deposit Box Keys|"
+  },
+  {
+    "name": "Token - Vault Safe 304",
+    "region": "Allowance Tokens",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|@Gem Item:9|) AND |Safe Deposit Box Keys|"
+  },
+  {
+    "name": "Token - Vault Safe 370",
+    "region": "Allowance Tokens",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|@Gem Item:9|) AND |Safe Deposit Box Keys|"
+  },
+  {
+    "name": "Token - Vault Safe 53",
+    "region": "Allowance Tokens",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|@Gem Item:9|) AND (|Key 8| AND |Gallery Prizes|)"
+  },
+  {
+    "name": "Token - Master Bedroom",
+    "region": "Mora Jai Box",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "|@Gem Item:7|"
+  },
+  {
+    "name": "Token - Closed Exhibit",
+    "region": "Mora Jai Box",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Closed Exhibit|) AND (|@Gem Item:5|)"
+  },
+  {
+    "name": "Token - The Underpass",
+    "region": "The Underground - Full Access",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "|Underpass Controls| AND |Mora Jai Boxes| AND |Boiler Room Pipes and Valves| AND |@Gem Item:6|"
+  },
+  {
+    "name": "Token - Tomb",
+    "region": "Mora Jai Box",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "((|Garage Doors|) AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND ((|Self-Igniting Torch| AND |Chess Piece Powers| AND |Armory Stock|) OR (|Magnifying Glass| AND |Metal Detector| AND |Workshop Bench|)) AND |@Gem Item:6|"
+  },
+  {
+    "name": "Token - Trading Post",
+    "region": "Mora Jai Box",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|))) AND |@Gem Item:6|"
+  },
+  {
+    "name": "Token - Tunnel",
+    "region": "Mora Jai Box",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "|Tunnel| AND |@Gem Item:6|"
+  },
+  {
+    "name": "Token - Solarium",
+    "region": "Mora Jai Box",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Solarium|) AND |@Gem Item:6|"
+  },
+  {
+    "name": "Token - Lost & Found",
+    "region": "Mora Jai Box",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Lost & Found|) AND |@Gem Item:6|"
+  },
+  {
+    "name": "Token - Throne Room",
+    "region": "Mora Jai Box",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "((|Blackbridge Grotto| AND |Boiler Room Pipes and Valves|) AND (((|Sledgehammer|) OR ((|Chess Piece Powers| AND |Armory Stock| AND |Morning Star|) AND ((|Apple Orchard Gate| AND |Breaker Box| AND |Garage Doors|) OR ((|Metal Detector| AND |Magnifying Glass| AND |Workshop Bench|) AND (((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle|) OR (((|Secret Garden Key| AND |West Antechamber Lever (Secret Garden)|) OR (|Broken Lever| AND |South Antechamber Lever (Greenhouse)|) OR (|East Antechamber Lever (Great Hall)|) OR (((|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR ((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle| AND |Pump Room Controls|)) AND (|Alt. West Antechamber Lever (Mechanarium)| AND |Underpass Controls|)) OR (|Alt. South Antechamber Lever (Weight Room)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Secret Garden Key| AND |Alt. East Antechamber Lever (Secret Garden)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|)) AND (|Basement Key| AND |Pump Room Controls|))))))) AND (|Shovel|) AND (|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND (|Blackbridge Grotto Microchip| AND |Entrance Hall Microchip| AND |West Path Microchip|))) AND (|@Gem Item:9|)"
+  },
+  {
+    "name": "Token - Orinda Aries",
+    "region": "The Underground - Full Access",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Mora Jai Boxes|) AND |@Gem Item:8|"
+  },
+  {
+    "name": "Token - Fenn Aries",
+    "region": "The Underground - Full Access",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Mora Jai Boxes|) AND |@Gem Item:8|"
+  },
+  {
+    "name": "Token - Arch Aries",
+    "region": "The Underground - Full Access",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Mora Jai Boxes|) AND |@Gem Item:8|"
+  },
+  {
+    "name": "Token - Eraja",
+    "region": "The Underground - Full Access",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Mora Jai Boxes|) AND |@Gem Item:8|"
+  },
+  {
+    "name": "Token - Corarica",
+    "region": "The Underground - Full Access",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Mora Jai Boxes|) AND |@Gem Item:8|"
+  },
+  {
+    "name": "Token - Mora Jai",
+    "region": "The Underground - Full Access",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Mora Jai Boxes|) AND |@Gem Item:8|"
+  },
+  {
+    "name": "Token - Verra",
+    "region": "The Underground - Full Access",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Mora Jai Boxes|) AND |@Gem Item:8|"
+  },
+  {
+    "name": "Token - Nuance",
+    "region": "The Underground - Full Access",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Mora Jai Boxes|) AND |@Gem Item:8|"
+  },
+  {
+    "name": "Laboratory Mail (1)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (2)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (3)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (4)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (5)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (6)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (7)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (8)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (9)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (10)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (11)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (12)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (13)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (14)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (15)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Mail (16)",
+    "region": "Laboratory",
+    "category": [
+      "[F] - Laboratory Experiments"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laboratory Tunnel Crate (1)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (2)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (3)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (4)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (5)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (6)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (7)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (8)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (9)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (10)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (11)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (12)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (13)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (14)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (15)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (16)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (17)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (18)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (19)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (20)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (21)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (22)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (23)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (24)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (25)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (26)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (27)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (28)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (29)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (30)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (31)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (32)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (33)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (34)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (35)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (36)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (37)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (38)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Laboratory Tunnel Crate (39)",
+    "region": "Laboratory",
+    "category": [
+      "[G] - TC Laboratory Experiments"
+    ],
+    "requires": "|Satelite Dish| AND |Swansong Password| AND |@Gem Item:10|"
+  },
+  {
+    "name": "Weak Wall - Greenhouse",
+    "region": "Misc",
+    "category": [
+      "[H] - Weak Walls"
+    ],
+    "requires": "|@Gem Item:10| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|"
+  },
+  {
+    "name": "Weak Wall - Weight Room",
+    "region": "Misc",
+    "category": [
+      "[H] - Weak Walls"
+    ],
+    "requires": "|@Gem Item:10| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|"
+  },
+  {
+    "name": "Weak Wall - Secret Garden",
+    "region": "Misc",
+    "category": [
+      "[H] - Weak Walls"
+    ],
+    "requires": "|@Gem Item:10| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench| AND |Secret Garden Key|"
+  },
+  {
+    "name": "Weak Wall - Precipice",
+    "region": "Misc",
+    "category": [
+      "[H] - Weak Walls"
+    ],
+    "requires": "|@Gem Item:7| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|"
+  },
+  {
+    "name": "Weak Wall - Sealed Entrance (1)",
+    "region": "Misc",
+    "category": [
+      "[H] - Weak Walls"
+    ],
+    "requires": "|@Gem Item:7| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|"
+  },
+  {
+    "name": "Weak Wall - Sealed Entrance (2)",
+    "region": "Misc",
+    "category": [
+      "[H] - Weak Walls"
+    ],
+    "requires": "|@Gem Item:7| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|"
+  },
+  {
+    "name": "Weak Wall - Freezer",
+    "region": "Misc",
+    "category": [
+      "[H] - Weak Walls"
+    ],
+    "requires": "|@Gem Item:7| AND ((|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Self-Igniting Torch| AND |Chess Piece Powers| AND |Armory Stock|) OR (|Magnifying Glass| AND |Metal Detector| AND |Workshop Bench|))"
+  },
+  {
+    "name": "Aries Court Box (1)",
+    "region": "Misc",
+    "category": [
+      "[I] - Aries Court Boxes"
+    ],
+    "requires": "|Chess Piece Powers| AND |Mora Jai Boxes|"
+  },
+  {
+    "name": "Aries Court Box (2)",
+    "region": "Misc",
+    "category": [
+      "[I] - Aries Court Boxes"
+    ],
+    "requires": "|Chess Piece Powers| AND |Mora Jai Boxes|"
+  },
+  {
+    "name": "Aries Court Box (3)",
+    "region": "Misc",
+    "category": [
+      "[I] - Aries Court Boxes"
+    ],
+    "requires": "|Chess Piece Powers| AND |Mora Jai Boxes|"
+  },
+  {
+    "name": "Aries Court Box (4)",
+    "region": "Misc",
+    "category": [
+      "[I] - Aries Court Boxes"
+    ],
+    "requires": "|Chess Piece Powers| AND |Mora Jai Boxes|"
+  },
+  {
+    "name": "Aries Court Box (5)",
+    "region": "Misc",
+    "category": [
+      "[I] - Aries Court Boxes"
+    ],
+    "requires": "|Chess Piece Powers| AND |Mora Jai Boxes|"
+  },
+  {
+    "name": "Aries Court Box (6)",
+    "region": "Misc",
+    "category": [
+      "[I] - Aries Court Boxes"
+    ],
+    "requires": "|Chess Piece Powers| AND |Mora Jai Boxes|"
+  },
+  {
+    "name": "Aries Court Box (7)",
+    "region": "Misc",
+    "category": [
+      "[I] - Aries Court Boxes"
+    ],
+    "requires": "|Chess Piece Powers| AND |Mora Jai Boxes|"
+  },
+  {
+    "name": "Aries Court Box (8)",
+    "region": "Misc",
+    "category": [
+      "[I] - Aries Court Boxes"
+    ],
+    "requires": "|Chess Piece Powers| AND |Mora Jai Boxes|"
+  },
+  {
+    "name": "Trophy of Invention",
+    "region": "Misc",
+    "category": [
+      "[J] - Workshop Inventions"
+    ],
+    "requires": "|@Gem Item:8| AND |Sledgehammer| AND |Broken Lever| AND |Shovel| AND |Compass| AND |Battery Pack| AND |Lucky Rabbit's Foot| AND |Coin Purse| AND |Metal Detector| AND |Lockpick Kit| AND |Magnifying Glass| AND |Workshop Bench|"
+  },
+  {
+    "name": "Craft an Electromagnet",
+    "region": "Misc",
+    "category": [
+      "[J] - Workshop Inventions"
+    ],
+    "requires": "|@Gem Item:4| AND |Compass| AND |Battery Pack| AND |Workshop Bench|"
+  },
+  {
+    "name": "Craft a Lucky Purse",
+    "region": "Misc",
+    "category": [
+      "[J] - Workshop Inventions"
+    ],
+    "requires": "|@Gem Item:4| AND |Lucky Rabbit's Foot| AND |Coin Purse| AND |Workshop Bench|"
+  },
+  {
+    "name": "Craft a Pick Sound Amplifier",
+    "region": "Misc",
+    "category": [
+      "[J] - Workshop Inventions"
+    ],
+    "requires": "|@Gem Item:4| AND |Metal Detector| AND |Lockpick Kit| AND |Workshop Bench|"
+  },
+  {
+    "name": "Craft a Burning Glass",
+    "region": "Misc",
+    "category": [
+      "[J] - Workshop Inventions"
+    ],
+    "requires": "|@Gem Item:4| AND |Metal Detector| AND |Magnifying Glass| AND |Workshop Bench|"
+  },
+  {
+    "name": "Craft a Detector Shovel",
+    "region": "Misc",
+    "category": [
+      "[J] - Workshop Inventions"
+    ],
+    "requires": "|@Gem Item:4| AND |Metal Detector| AND |Shovel| AND |Workshop Bench|"
+  },
+  {
+    "name": "Craft a Dowsing Rod",
+    "region": "Misc",
+    "category": [
+      "[J] - Workshop Inventions"
+    ],
+    "requires": "|@Gem Item:4| AND |Compass| AND |Shovel| AND |Workshop Bench|"
+  },
+  {
+    "name": "Craft a Jack Hammer",
+    "region": "Misc",
+    "category": [
+      "[J] - Workshop Inventions"
+    ],
+    "requires": "|@Gem Item:4| AND |Shovel| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|"
+  },
+  {
+    "name": "Craft a Power Hammer",
+    "region": "Misc",
+    "category": [
+      "[J] - Workshop Inventions"
+    ],
+    "requires": "|@Gem Item:4| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|"
+  },
+  {
+    "name": "Full House Trophy",
+    "region": "Misc",
+    "category": [
+      "[K] - Misc Challenges"
+    ],
+    "requires": "|@Gem Item:9|"
+  },
+  {
+    "name": "Fill a Watering Can With Still Water",
+    "region": "Misc",
+    "category": [
+      "[K] - Misc Challenges"
+    ],
+    "requires": "(|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND (|Self-Igniting Torch| AND |Chess Piece Powers| AND |Armory Stock|) OR (|Magnifying Glass| AND |Metal Detector| AND |Workshop Bench|) AND |Watering Can| AND |@Gem Item:5|"
+  },
+  {
+    "name": "Magnetize the Locksmith",
+    "region": "Misc",
+    "category": [
+      "[K] - Misc Challenges"
+    ],
+    "requires": "|@Gem Item:5| AND |Compass| AND |Battery Pack| AND |Workshop Bench|"
+  },
+  {
+    "name": "Use the Jackhammer in the Gemstone Cavern",
+    "region": "Misc",
+    "category": [
+      "[K] - Misc Challenges"
+    ],
+    "requires": "|@Gem Item:5| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench| AND |Gemstone Cavern|"
+  },
+  {
+    "name": "Have 100+ Steps",
+    "region": "Misc",
+    "category": [
+      "[K] - Misc Challenges"
+    ],
+    "requires": "|@Gem Item:6| AND ((|Dinner (Dining Room)| AND |Kitchen Stock| AND |Apple Orchard Gate|) OR ((|Dinner (Dining Room)| OR |Kitchen Stock|) AND |Showroom Stock| AND |Silver Spoon|))"
+  },
+  {
+    "name": "Draft 5 or More Classrooms in a Single Day",
+    "region": "Misc",
+    "category": [
+      "[K] - Misc Challenges"
+    ],
+    "requires": "|@Gem Item:5| AND (|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|))"
+  },
+  {
+    "name": "Dig 18+ Times in a Single Day",
+    "region": "Misc",
+    "category": [
+      "[K] - Misc Challenges"
+    ],
+    "requires": "|@Gem Item:5| AND |Shovel| AND ((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) OR (|Laboratory Terminal|))"
+  },
+  {
+    "name": "Trophy of Drafting (12+ Dead Ends)",
+    "region": "Misc",
+    "category": [
+      "[K] - Misc Challenges"
+    ],
+    "requires": "|@Gem Item:7|"
+  },
+  {
+    "name": "Trophy 8",
+    "region": "Misc",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Key 8| AND |Gallery Prizes|) AND |@Gem Item:8| AND |Room 8 Puzzle|"
+  },
+  {
+    "name": "Bullseye Trophy",
+    "region": "Misc",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "(|Dartboard Puzzle| AND |@Gem Item:8|"
+  },
+  {
+    "name": "A Logical Trophy",
+    "region": "Misc",
+    "category": [
+      "[E] - Allowance Tokens"
+    ],
+    "requires": "|@Gem Item:8| AND |Parlor Boxes|"
+  },
+  {
+    "name": "Visit the Train Station",
+    "region": "The Underground - Full Access",
+    "category": [
+      "[K] - Misc Challenges"
+    ],
+    "requires": "|@Gem Item:6| AND |Pump Room Controls|"
+  },
+  {
+    "name": "Visit the Atelier",
+    "region": "Misc",
+    "category": [
+      "[K] - Misc Challenges"
+    ],
+    "requires": "|@Gem Item:8| AND |Secret Passage Doorway| AND |Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|) AND |Shrine Blessings|"
+  },
+  {
+    "name": "Draft From a Security Door",
+    "region": "Misc",
+    "category": [
+      "[K] - Misc Challenges"
+    ],
+    "requires": "|@Gem Item:3| AND ((|Security Terminal| AND |Breaker Box|) OR (|Keycard|))"
+  },
+  {
+    "name": "Reach Rank 9",
+    "region": "Misc",
+    "category": [
+      "[K] - Misc Challenges"
+    ],
+    "requires": "|@Gem Item:2|"
+  }
+]

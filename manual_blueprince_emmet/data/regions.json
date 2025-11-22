@@ -1,0 +1,73 @@
+{
+  "Base": {
+    "starting": true,
+    "connects_to": [
+      "Outer Rooms",
+      "The Underground - West + South Access",
+      "The Underground - East + North Access",
+      "The Underground - Full Access",
+      "The Precipice Access",
+      "Requires Powerhammer",
+      "Requires Light Source",
+	  "Mora Jai Box",
+	  "Upgrade Disks",
+	  "Misc",
+	  "Laboratory",
+	  "Allowance Tokens",
+      "Antechamber Access"
+    ],
+    "requires": []
+  },
+  "Outer Rooms": {
+    "connects_to": [],
+    "requires": "(|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|))"
+  },
+  "The Underground - West + South Access": {
+    "connects_to": [],
+    "requires": "(((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle|) OR ((((|Secret Garden Key| AND |West Antechamber Lever (Secret Garden)|) OR (|Broken Lever| AND |South Antechamber Lever (Greenhouse)|) OR (|East Antechamber Lever (Great Hall)|) OR (((|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR ((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle| AND |Pump Room Controls|)) AND (|Alt. West Antechamber Lever (Mechanarium)|)) OR (|Alt. South Antechamber Lever (Weight Room)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Secret Garden Key| AND |Alt. East Antechamber Lever (Secret Garden)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|))) AND (|Basement Key| AND |Pump Room Controls|)))"
+  },
+  "The Underground - East + North Access": {
+    "connects_to": [],
+    "requires": "(((((|Secret Garden Key| AND |West Antechamber Lever (Secret Garden)|) OR (|Broken Lever| AND |South Antechamber Lever (Greenhouse)|) OR (|East Antechamber Lever (Great Hall)|) OR (((|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR ((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle| AND |Pump Room Controls|)) AND (|Alt. West Antechamber Lever (Mechanarium)|)) OR (|Alt. South Antechamber Lever (Weight Room)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Secret Garden Key| AND |Alt. East Antechamber Lever (Secret Garden)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|))) AND (|Basement Key| AND |Foundation Elevator|)) OR (|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR ((((|Secret Garden Key| AND |West Antechamber Lever (Secret Garden)|) OR (|Broken Lever| AND |South Antechamber Lever (Greenhouse)|) OR (|East Antechamber Lever (Great Hall)|) OR (((|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR ((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle| AND |Pump Room Controls|)) AND (|Alt. West Antechamber Lever (Mechanarium)|)) OR (|Alt. South Antechamber Lever (Weight Room)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Secret Garden Key| AND |Alt. East Antechamber Lever (Secret Garden)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|))) AND (|Basement Key| AND |Pump Room Controls|) AND ((|Boiler Room Pipes and Valves|) OR ((|Apple Orchard Gate| AND |Breaker Box| AND |Garage Doors|) AND (|Metal Detector| AND |Magnifying Glass| AND |Workshop Bench|)))) OR ((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle| AND |Pump Room Controls|))"
+  },
+  "The Underground - Full Access": {
+    "connects_to": [],
+    "requires": "(((((((|Secret Garden Key| AND |West Antechamber Lever (Secret Garden)|) OR (|Broken Lever| AND |South Antechamber Lever (Greenhouse)|) OR (|East Antechamber Lever (Great Hall)|) OR (((|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR ((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle| AND |Pump Room Controls|)) AND |Alt. West Antechamber Lever (Mechanarium)|) OR (|Alt. South Antechamber Lever (Weight Room)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Secret Garden Key| AND |Alt. East Antechamber Lever (Secret Garden)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|))) AND (|Basement Key| AND |Foundation Elevator|)) OR ((|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|))) AND (((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle|) OR ((((|Secret Garden Key| AND |West Antechamber Lever (Secret Garden)|) OR (|Broken Lever| AND |South Antechamber Lever (Greenhouse)|) OR (|East Antechamber Lever (Great Hall)|) OR (((|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR ((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle| AND |Pump Room Controls|)) AND |Alt. West Antechamber Lever (Mechanarium)|) OR (|Alt. South Antechamber Lever (Weight Room)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Secret Garden Key| AND |Alt. East Antechamber Lever (Secret Garden)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|))) AND (|Basement Key| AND |Pump Room Controls|)))) OR (((((|Secret Garden Key| AND |West Antechamber Lever (Secret Garden)|) OR (|Broken Lever| AND |South Antechamber Lever (Greenhouse)|) OR (|East Antechamber Lever (Great Hall)|) OR (((|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR ((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle| AND |Pump Room Controls|)) AND |Alt. West Antechamber Lever (Mechanarium)|) OR (|Alt. South Antechamber Lever (Weight Room)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Secret Garden Key| AND |Alt. East Antechamber Lever (Secret Garden)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|))) AND (|Basement Key| AND |Pump Room Controls|) AND ((|Boiler Room Pipes and Valves|) OR ((|Apple Orchard Gate| AND |Breaker Box| AND |Garage Doors|) AND (|Metal Detector| AND |Magnifying Glass| AND |Workshop Bench|)))) OR ((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle| AND |Pump Room Controls|)))"
+  },
+  "The Precipice Access": {
+    "connects_to": [],
+    "requires": "((|Apple Orchard Gate| AND |Breaker Box| AND |Garage Doors|) OR ((|Metal Detector| AND |Magnifying Glass| AND |Workshop Bench|) AND (((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle|) OR ((((|Secret Garden Key| AND |West Antechamber Lever (Secret Garden)|) OR (|Broken Lever| AND |South Antechamber Lever (Greenhouse)|) OR (|East Antechamber Lever (Great Hall)|) OR (((|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR ((|Garage Doors| AND (|Breaker Box| OR |Boiler Room Pipes and Valves|)) AND |Tomb Puzzle| AND |Pump Room Controls|)) AND (|Alt. West Antechamber Lever (Mechanarium)|)) OR (|Alt. South Antechamber Lever (Weight Room)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|) OR (|Secret Garden Key| AND |Alt. East Antechamber Lever (Secret Garden)| AND |Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|))) AND (|Basement Key| AND |Pump Room Controls|)))))"
+  },
+  "Requires Light Source": {
+    "connects_to": [],
+    "requires": "((|Metal Detector| AND |Magnifying Glass| AND |Workshop Bench|) OR (|Chess Piece Powers| AND |Armory Stock| AND |Self-Igniting Torch|))\n"
+  },
+  "Requires Powerhammer": {
+    "connects_to": [],
+    "requires": "(|Sledgehammer| AND |Broken Lever| AND |Battery Pack| AND |Workshop Bench|)"
+  },
+  "Mora Jai Box": {
+    "connects_to": [],
+    "requires": "|Mora Jai Boxes|"
+  },
+  "Upgrade Disks": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Allowance Tokens": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Misc": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Laboratory": {
+    "connects_to": [],
+    "requires": "|Laboratory Terminal| AND |@Gem Item:2|"
+  },
+  "Antechamber Access": {
+    "connects_to": [],
+    "requires": []
+  }
+}
